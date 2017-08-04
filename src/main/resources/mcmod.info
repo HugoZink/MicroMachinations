@@ -1,0 +1,16 @@
+[
+{
+  "modid": "micromachinations",
+  "name": "Micro Machinations",
+  "description": "Adds various miniature pocket dimensions to the game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Rokk for making the mod. Curunir and Malacath from the 1.7.10 pack Discord for inspiring me.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

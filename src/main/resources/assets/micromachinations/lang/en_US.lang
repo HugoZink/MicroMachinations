@@ -1,0 +1,7 @@
+# Items
+item.formation_wand.name=Formation Wand
+
+# Blocks
+tile.micromachine_structure_iron.name=Micro Machine Structure Block (Iron)
+tile.micromachine.name=Micro Machine
+tile.micromachine_internal.name=Micro Machine Block
